@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\2. Odev\2. soru\Matrisler farkli tasarim\Matrisler\Matrisler\bin\Debug\Matrisler.exe.config
+C:\Users\Lenovo\Desktop\2. Odev\2. soru\Matrisler farkli tasarim\Matrisler\Matrisler\bin\Debug\Matrisler.exe
+C:\Users\Lenovo\Desktop\2. Odev\2. soru\Matrisler farkli tasarim\Matrisler\Matrisler\bin\Debug\Matrisler.pdb
+C:\Users\Lenovo\Desktop\2. Odev\2. soru\Matrisler farkli tasarim\Matrisler\Matrisler\obj\Debug\Matrisler.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\2. Odev\2. soru\Matrisler farkli tasarim\Matrisler\Matrisler\obj\Debug\Matrisler.Form1.resources
+C:\Users\Lenovo\Desktop\2. Odev\2. soru\Matrisler farkli tasarim\Matrisler\Matrisler\obj\Debug\Matrisler.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\2. Odev\2. soru\Matrisler farkli tasarim\Matrisler\Matrisler\obj\Debug\Matrisler.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\2. Odev\2. soru\Matrisler farkli tasarim\Matrisler\Matrisler\obj\Debug\Matrisler.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\2. Odev\2. soru\Matrisler farkli tasarim\Matrisler\Matrisler\obj\Debug\Matrisler.exe
+C:\Users\Lenovo\Desktop\2. Odev\2. soru\Matrisler farkli tasarim\Matrisler\Matrisler\obj\Debug\Matrisler.pdb
